@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0326-power-of-three) |
