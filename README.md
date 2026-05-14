@@ -15,6 +15,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
