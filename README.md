@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
@@ -57,12 +60,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -70,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Enumeration
