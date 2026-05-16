@@ -30,6 +30,7 @@
 | [0507-perfect-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Simulation
 |  |
@@ -89,6 +90,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
