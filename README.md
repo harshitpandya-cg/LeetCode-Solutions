@@ -18,6 +18,7 @@
 | [0007-reverse-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
