@@ -50,6 +50,7 @@
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Prefix Sum
 |  |
