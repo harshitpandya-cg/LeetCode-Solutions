@@ -102,6 +102,7 @@
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -125,6 +126,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Enumeration
 |  |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
