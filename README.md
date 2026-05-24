@@ -41,6 +41,7 @@
 | [0507-perfect-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -126,6 +127,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
