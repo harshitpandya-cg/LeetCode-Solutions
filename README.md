@@ -9,6 +9,7 @@
 | [0171-excel-sheet-column-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -52,6 +53,7 @@
 | [0205-isomorphic-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -174,6 +176,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
