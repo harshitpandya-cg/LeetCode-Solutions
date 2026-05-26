@@ -21,6 +21,7 @@
 | [0520-detect-capital](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -98,6 +99,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Bit Manipulation
 |  |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Counting Sort
 |  |
 | ------- |
