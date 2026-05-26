@@ -74,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -135,6 +136,7 @@
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
