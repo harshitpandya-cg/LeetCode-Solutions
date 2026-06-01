@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -295,6 +296,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
