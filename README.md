@@ -126,6 +126,7 @@
 | [0136-single-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Trie
