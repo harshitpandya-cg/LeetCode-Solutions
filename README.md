@@ -29,6 +29,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -98,6 +99,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -187,6 +189,7 @@
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
@@ -266,6 +269,7 @@
 | [0383-ransom-note](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Sliding Window
 |  |
