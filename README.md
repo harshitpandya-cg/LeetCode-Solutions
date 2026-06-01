@@ -21,6 +21,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0520-detect-capital) |
