@@ -134,6 +134,7 @@
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## Recursion
