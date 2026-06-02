@@ -99,6 +99,7 @@
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -186,6 +187,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -305,6 +307,7 @@
 | [0020-valid-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
