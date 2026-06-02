@@ -71,6 +71,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -208,6 +209,7 @@
 | [1089-duplicate-zeros](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
