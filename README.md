@@ -194,6 +194,7 @@
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -304,6 +305,7 @@
 | [0020-valid-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
