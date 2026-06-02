@@ -31,6 +31,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -198,6 +199,7 @@
 | [0724-find-pivot-index](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0806-number-of-lines-to-write-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
