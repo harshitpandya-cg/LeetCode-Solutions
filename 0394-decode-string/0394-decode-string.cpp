@@ -1,41 +1,42 @@
 class Solution {
 public:
-    string decodeString(string s) {
-        stack<int> countStack;
-        stack<string> stringStack;
-        string curr = "";
-        int num = 0;
-        for(char ch : s)
-        {
-            if(isdigit(ch))
-            {
-                num = num * 10 + (ch - '0');
+
+    string solve(string &s, int &i) {
+
+        string result = "";
+
+        while(i < s.size() && s[i] != ']') {
+
+            if(isalpha(s[i])) {
+                result += s[i];
+                i++;
             }
-            else if(ch == '[')
-            {
-                countStack.push(num);
-                stringStack.push(curr);
-                num = 0;
-                curr = "";
-            }
-            else if(ch == ']')
-            {
-                int repeat = countStack.top();
-                countStack.pop();
-                string prev = stringStack.top();
-                stringStack.pop();
-                string temp = "";
-                for(int i = 0; i < repeat; i++)
-                {
-                    temp += curr;
+            else {
+
+                int num = 0;
+
+                while(i < s.size() && isdigit(s[i])) {
+                    num = num * 10 + (s[i] - '0');
+                    i++;
                 }
-                curr = prev + temp;
-            }
-            else
-            {
-                curr += ch;
+
+                i++; // skip '['
+
+                string inner = solve(s, i);
+
+                i++; // skip ']'
+
+                while(num--) {
+                    result += inner;
+                }
             }
         }
-        return curr;
+
+        return result;
+    }
+
+    string decodeString(string s) {
+        int i = 0;
+        return solve(s, i);
     }
 };
