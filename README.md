@@ -36,6 +36,7 @@
 | [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
@@ -328,6 +329,7 @@
 | [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
