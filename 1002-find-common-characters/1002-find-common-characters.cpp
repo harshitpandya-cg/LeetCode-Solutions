@@ -1,25 +1,30 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
-        vector<int> common(26, INT_MAX);
-        for(string word : words) {
-            vector<int> freq(26, 0);
-            for(char ch : word) {
-                freq[ch - 'a']++;
+        vector<string> res;
+
+        for(char ch : words[0]) {
+            string temp = "";
+            temp += ch;
+
+            bool found = true;
+
+            for(int j = 1; j < words.size(); j++) {
+                int pos = words[j].find(ch);
+
+                if(pos == string::npos) {
+                    found = false;
+                    break;
+                }
+
+                words[j].erase(pos, 1);
             }
 
-            for(int i = 0; i < 26; i++) {
-                common[i] = min(common[i], freq[i]);
+            if(found) {
+                res.push_back(temp);
             }
         }
 
-        vector<string> ans;
-        for(int i = 0; i < 26; i++) {
-            while(common[i]--) {
-                string s(1, i + 'a');
-                ans.push_back(s);
-            }
-        }
-        return ans;
+        return res;
     }
 };
