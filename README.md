@@ -82,6 +82,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
