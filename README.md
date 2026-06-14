@@ -46,6 +46,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2942-find-words-containing-character](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -151,6 +152,7 @@
 | [1089-duplicate-zeros](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |
