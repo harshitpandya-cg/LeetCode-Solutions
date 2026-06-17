@@ -50,6 +50,7 @@
 | [2129-capitalize-the-title](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2942-find-words-containing-character](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3612-process-string-with-special-operations-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
