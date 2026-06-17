@@ -83,6 +83,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1399-count-largest-group](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -92,6 +93,7 @@
 | [0067-add-binary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
