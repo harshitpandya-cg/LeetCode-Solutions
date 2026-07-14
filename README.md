@@ -192,6 +192,7 @@
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0905-sort-array-by-parity](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1089-duplicate-zeros](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -328,6 +331,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
