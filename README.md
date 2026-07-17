@@ -150,6 +150,7 @@
 | [0202-happy-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -168,6 +169,7 @@
 | [0136-single-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -215,6 +218,7 @@
 | [0228-summary-ranges](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
