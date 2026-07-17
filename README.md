@@ -88,6 +88,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -134,6 +135,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -198,6 +200,7 @@
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2942-find-words-containing-character](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -291,6 +295,7 @@
 | [0724-find-pivot-index](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -330,6 +335,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1399-count-largest-group) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -394,8 +400,13 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
