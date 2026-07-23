@@ -240,6 +240,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0806-number-of-lines-to-write-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0896-monotonic-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
