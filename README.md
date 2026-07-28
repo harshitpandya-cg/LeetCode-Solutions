@@ -69,6 +69,7 @@
 | [0202-happy-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -426,9 +427,11 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
