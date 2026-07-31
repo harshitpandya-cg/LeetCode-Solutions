@@ -269,6 +269,7 @@
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1652-defuse-the-bomb](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -366,6 +367,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 ## String Matching
 |  |
 | ------- |
