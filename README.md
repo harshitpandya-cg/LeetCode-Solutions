@@ -456,5 +456,6 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1965-employees-with-missing-information](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
