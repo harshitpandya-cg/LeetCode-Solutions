@@ -80,6 +80,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -213,6 +214,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
