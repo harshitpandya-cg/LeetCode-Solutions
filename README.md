@@ -24,6 +24,7 @@
 | [0394-decode-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -77,6 +78,7 @@
 | [0342-power-of-four](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0507-perfect-number) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
