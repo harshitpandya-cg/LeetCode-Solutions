@@ -101,6 +101,7 @@
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -318,6 +319,7 @@
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
