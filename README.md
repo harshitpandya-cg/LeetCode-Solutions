@@ -56,6 +56,7 @@
 | [2942-find-words-containing-character](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3163-string-compression-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3163-string-compression-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -102,6 +103,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -357,6 +359,7 @@
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -442,10 +445,12 @@
 | ------- |
 | [0258-add-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |
