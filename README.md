@@ -256,6 +256,7 @@
 | [0485-max-consecutive-ones](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -312,6 +313,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -463,6 +465,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Brainteaser
 |  |
