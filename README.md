@@ -158,6 +158,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -303,6 +304,7 @@
 | [1995-count-special-quadruplets](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2942-find-words-containing-character](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Sorting
@@ -442,6 +444,7 @@
 | [0206-reverse-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
