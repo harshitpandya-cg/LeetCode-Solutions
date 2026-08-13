@@ -519,6 +519,7 @@
 | [0184-department-highest-salary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1965-employees-with-missing-information](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 ## Z Algorithm
 |  |
