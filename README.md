@@ -513,6 +513,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
