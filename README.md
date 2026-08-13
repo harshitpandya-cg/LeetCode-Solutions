@@ -288,6 +288,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1037-valid-boomerang](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1089-duplicate-zeros](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -430,6 +431,7 @@
 | [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -454,6 +456,7 @@
 | [0206-reverse-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
@@ -467,6 +470,7 @@
 | [0496-next-greater-element-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
