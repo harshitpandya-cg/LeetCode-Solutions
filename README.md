@@ -536,6 +536,7 @@
 | [0626-exchange-seats](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1965-employees-with-missing-information](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 ## Z Algorithm
 |  |
