@@ -101,6 +101,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1399-count-largest-group](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -301,6 +302,7 @@
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -363,6 +365,7 @@
 | [0392-is-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Trie
 |  |
 | ------- |
@@ -509,6 +512,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Database
 |  |
