@@ -132,6 +132,7 @@
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -468,6 +469,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
