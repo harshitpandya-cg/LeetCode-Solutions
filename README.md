@@ -313,6 +313,7 @@
 | [1695-maximum-erasure-value](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1773-count-items-matching-a-rule](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -394,6 +395,7 @@
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
