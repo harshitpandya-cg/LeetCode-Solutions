@@ -166,6 +166,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -321,6 +322,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Sorting
 |  |
@@ -348,6 +350,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3731-find-missing-elements](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
