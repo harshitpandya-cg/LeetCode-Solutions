@@ -158,6 +158,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1695-maximum-erasure-value](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -217,6 +218,7 @@
 | [0461-hamming-distance](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## Recursion
 |  |
@@ -302,6 +304,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -396,6 +399,7 @@
 | [0561-array-partition](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
