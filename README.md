@@ -131,6 +131,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -255,6 +256,7 @@
 | [0016-3sum-closest](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -575,4 +577,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
