@@ -118,6 +118,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -262,6 +263,7 @@
 | [0027-remove-element](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -589,4 +591,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
