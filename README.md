@@ -54,6 +54,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -106,6 +107,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -411,6 +413,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1386-cinema-seat-allocation](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1927-sum-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
@@ -545,6 +548,7 @@
 | [0292-nim-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Database
 |  |
