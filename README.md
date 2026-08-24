@@ -107,6 +107,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -328,6 +329,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -380,6 +382,7 @@
 | [0724-find-pivot-index](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -391,6 +394,7 @@
 | [0509-fibonacci-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Trie
 |  |
 | ------- |
@@ -548,6 +552,7 @@
 | [0292-nim-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Database
@@ -598,4 +603,12 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
