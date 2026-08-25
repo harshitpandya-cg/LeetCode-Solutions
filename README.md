@@ -584,6 +584,7 @@
 | [1068-product-sales-analysis-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1965-employees-with-missing-information](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 ## Z Algorithm
 |  |
