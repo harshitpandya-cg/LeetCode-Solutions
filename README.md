@@ -73,6 +73,7 @@
 | [0007-reverse-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -269,6 +270,7 @@
 | [0027-remove-element](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -607,6 +609,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Minimax
 |  |
