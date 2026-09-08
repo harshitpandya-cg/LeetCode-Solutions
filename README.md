@@ -47,6 +47,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1370-increasing-decreasing-string](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
@@ -99,6 +100,7 @@
 | [1025-divisor-game](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
