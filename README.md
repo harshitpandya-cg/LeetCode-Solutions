@@ -319,6 +319,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1037-valid-boomerang](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
+| [1051-height-checker](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -375,6 +376,7 @@
 | [0645-set-mismatch](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1051-height-checker](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -440,6 +442,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1051-height-checker](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -637,4 +640,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
