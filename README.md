@@ -143,6 +143,7 @@
 | [0036-valid-sudoku](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -196,6 +197,7 @@
 | [0075-sort-colors](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -501,6 +503,7 @@
 | [0086-partition-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -628,6 +631,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Manacher
 |  |
