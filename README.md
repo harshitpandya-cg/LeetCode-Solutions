@@ -224,6 +224,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
@@ -530,6 +531,7 @@
 | [0328-odd-even-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harshitpandya-cg/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
